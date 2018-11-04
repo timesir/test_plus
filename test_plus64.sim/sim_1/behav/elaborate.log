@@ -1,0 +1,15 @@
+Vivado Simulator 2017.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: /home/share/vivado2017.2/Vivado/2017.2/bin/unwrapped/lnx64.o/xelab -wto b72aca6e8e5e40fd8cb5fd7aa7018b73 --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sim_behav xil_defaultlib.sim xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.srcs/sources_1/imports/64plus/SimpleModule.v" Line 1. Module SimpleModule doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.SimpleModule
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sim_behav

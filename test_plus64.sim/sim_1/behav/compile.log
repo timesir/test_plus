@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.srcs/sources_1/imports/64plus/SimpleModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.srcs/sim_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

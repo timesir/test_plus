@@ -1,0 +1,129 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
+| Date         : Sun Nov  4 02:22:21 2018
+| Host         : computer126 running 64-bit CentOS Linux release 7.3.1611 (Core)
+| Command      : upgrade_ip
+| Device       : xc7vx690tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'SimpleModule_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of SimpleModule_0 (user.org:user:SimpleModule:1.0) from (Rev. 4) to (Rev. 8)
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
+| Date         : Sun Nov  4 00:18:41 2018
+| Host         : computer126 running 64-bit CentOS Linux release 7.3.1611 (Core)
+| Command      : upgrade_ip
+| Device       : xc7vx690tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'SimpleModule_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of SimpleModule_0 (user.org:user:SimpleModule:1.0 (Rev. 4)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
+| Date         : Sat Nov  3 22:59:05 2018
+| Host         : computer126 running 64-bit CentOS Linux release 7.3.1611 (Core)
+| Command      : upgrade_ip
+| Device       : xc7vx690tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'SimpleModule_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of SimpleModule_0 (user.org:user:SimpleModule:1.0) from (Rev. 3) to (Rev. 4)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'SimpleModule_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'io_in'
+
+-Upgrade has removed port 'io_in_vec_0'
+
+-Upgrade has removed port 'io_in_vec_1'
+
+-Upgrade has removed port 'io_out_and'
+
+-Upgrade has removed port 'io_out_bundle_vec_reduce'
+
+-Upgrade has removed port 'io_out_max'
+
+-Upgrade has removed port 'io_out_or'
+
+-Upgrade has removed port 'io_out_reduce_plus'
+
+-Upgrade has removed port 'io_out_xor'
+
+-Upgrade has added port 'io_out_plus'
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
+| Date         : Sat Nov  3 22:58:32 2018
+| Host         : computer126 running 64-bit CentOS Linux release 7.3.1611 (Core)
+| Command      : upgrade_ip
+| Device       : xc7vx690tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'SimpleModule_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of SimpleModule_0 (user.org:user:SimpleModule:1.0 (Rev. 3)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (lin64) Build 1909853 Thu Jun 15 18:39:10 MDT 2017
+| Date         : Sat Nov  3 22:16:08 2018
+| Host         : computer126 running 64-bit CentOS Linux release 7.3.1611 (Core)
+| Command      : upgrade_ip
+| Device       : xc7vx690tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'SimpleModule_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of SimpleModule_0 (user.org:user:SimpleModule:1.0) from (Rev. 2) to (Rev. 3)
+

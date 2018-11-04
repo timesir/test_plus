@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun Nov  4 00:51:45 2018
+# Process ID: 17278
+# Current directory: /home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/synth/timing
+# Command line: wbtcv -mode batch -source /home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/synth/timing/xsim.dir/sim_time_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/synth/timing/webtalk.log
+# Journal file: /home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/synth/timing/webtalk.jou
+#-----------------------------------------------------------
+source /home/zcl/test_architecture/vivado_project/function_library_sourcecode/test_plus64/test_plus64.sim/sim_1/synth/timing/xsim.dir/sim_time_synth/webtalk/xsim_webtalk.tcl -notrace
